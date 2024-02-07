@@ -1,0 +1,25 @@
+
+.divcss{
+Height: 350px;
+Width: 350px;
+Text-align:left;
+
+}
+
+
+
+.lineunder {
+  Text-decoration: underline;
+}
+
+.highlighting {
+  background-color: orange;
+}
+
+
+
+.boldred {
+  color: red;
+  font-weight: bold;
+  Display:inline
+}
